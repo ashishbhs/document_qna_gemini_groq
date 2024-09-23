@@ -18,7 +18,7 @@ groq_api_key = os.getenv('GROQ_API_KEY')
 os.environ["GOOGLE_API_KEY"] = os.getenv("GOOGLE_API_KEY")
 
 # Streamlit app title
-st.title("📚 PDF Q&A Application")
+st.title("📚 Ask PDF")
 st.subheader("Upload your PDF document and ask questions about its content!")
 
 # File uploader
