@@ -1,0 +1,8 @@
+streamlit==1.22.0
+langchain==0.0.200  # Adjust based on the specific version you are using
+langchain-groq==0.0.1  # Replace with the appropriate version if needed
+langchain-community==0.0.1  # Replace with the appropriate version if needed
+langchain-google-genai==0.0.1  # Replace with the appropriate version if needed
+PyMuPDF==1.19.5  # or latest version
+python-dotenv==1.0.0
+faiss-cpu==1.7.2  # Adjust based on your needs
