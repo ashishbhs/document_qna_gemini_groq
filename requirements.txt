@@ -6,3 +6,4 @@ langchain-google-genai
 PyMuPDF
 python-dotenv
 faiss-cpu
+pypdf
